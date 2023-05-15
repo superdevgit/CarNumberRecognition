@@ -27,7 +27,7 @@
 
 ## Detection
 ```
-git clone https://github.com/sid0312/anpr_yolov5
+git clone https://github.com/superdevgit/CarNumberRecognition
 cd anpr_yolov5
 python detect.py --source sample_cars/  --weights weights/best.pt --conf 0.4
 ```
